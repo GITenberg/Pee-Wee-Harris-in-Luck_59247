@@ -8,6 +8,9 @@ contributor:
     deathdate: 1961
     gutenberg_agent_id: '24752'
     url: http://www.gutenberg.org/2009/agents/24752
+covers:
+- cover_type: archival
+  image_path: 59247-h/images/cover.jpg
 creator:
   author:
     agent_name: Fitzhugh, Percy Keese
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2132
     wikipedia: http://en.wikipedia.org/wiki/Percy_Keese_Fitzhugh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59247#Pee-Wee-Harris-in-Luck
 gutenberg_issued: '2019-04-11'
 gutenberg_type: Text
 identifiers:
